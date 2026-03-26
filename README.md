@@ -1,60 +1,88 @@
-# Olá! Eu sou o Marcelo 👋
+<h1 align="center">👨‍💻 Marcelo Figueira Junior</h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FIAP  
-💻 Em formação **Full Stack** pela Rocketseat  
-📊 Bacharel em **Ciências Econômicas**  
-🚀 Buscando uma **oportunidade de estágio em desenvolvimento**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+progress;HTML+%7C+CSS+%7C+Python;Building+projects+and+evolving+every+day" />
+</p>
 
-Tenho interesse em tecnologia, desenvolvimento web e resolução de problemas através da programação.
-
-Atualmente estou focado em fortalecer minha base em **desenvolvimento front-end e lógica de programação**, construindo projetos práticos e evoluindo constantemente minhas habilidades.
-
----
-
-# 🚀 Tecnologias que estou estudando
-
-<p align="left">
-<img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right:10px;"/>
-<img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right:10px;"/>
-<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right:10px;"/>
-<img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-right:10px;"/>
-<img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<p align="center">
+🇧🇷 Português | 🇺🇸 English (coming soon)
 </p>
 
 ---
 
-# 📂 Projetos em destaque
+## 🚀 Sobre mim
 
-🔹 **Landing Page Responsiva**  
-Projeto desenvolvido com HTML e CSS focado em estrutura semântica e responsividade.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FIAP
+💻 Em formação **Full Stack** pela Rocketseat
+📊 Bacharel em **Ciências Econômicas**
+🚀 Buscando uma **oportunidade de estágio como desenvolvedor Full Stack**
 
-🔹 **Projeto Web com HTML e CSS**  
-Aplicação simples para prática de layout e estilização.
+Tenho interesse em tecnologia, desenvolvimento web e resolução de problemas através da programação.
 
-🔹 **Projeto em Python**  
-Script para prática de lógica de programação e automação básica.
+Atualmente estou focado em:
 
-*(Novos projetos serão adicionados conforme avanço nos estudos.)*
-
----
-
-# 📊 Estatísticas do GitHub
-
-<div>
-<a href="https://github.com/Marcelo-Figueira-Junior">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Figueira-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Figueira-Junior&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+* Desenvolvimento **Front-end**
+* Evolução para **Back-end**
+* Construção de projetos práticos
 
 ---
 
-# 📫 Contato
+## 🧰 Tecnologias
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github" />
+</p>
+
+---
+
+## ⭐ Projetos em destaque
+
+### 🧁 Página de Receita
+
+🔗 https://github.com/Marcelo-Figueira-Junior/Pagina-de-receita
+
+---
+
+### 📸 Travelgram
+
+🔗 https://github.com/Marcelo-Figueira-Junior/Travelgram
+
+---
+
+### 📰 Portal de Notícias
+
+🔗 https://github.com/Marcelo-Figueira-Junior/Portal-de-noticias
+
+---
+
+### 🤖 Celinho - Agente Financeiro
+
+🔗 (adicione o link aqui)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Figueira-Junior&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Figueira-Junior&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
 <a href="https://www.linkedin.com/in/marcelo-figueira-junior-8aa71718b/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</p>
 
 ---
 
-⭐ Sempre aprendendo e evoluindo na área de tecnologia.
+<p align="center">
+⭐ Sempre aprendendo e evoluindo como desenvolvedor Full Stack
+</p>
